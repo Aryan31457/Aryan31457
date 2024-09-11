@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Aryan Singh</h1>
-<h3 align="center">A passionate machine learning enthusiast , front end developer & dsa learner</h3>
+<h2 align="center"> 👋, I'm pre-final year CSE student at IIITU</h2>
+<h3 align="center">A passionate machine learning enthusiast , Web developer & dsa learner</h3>
 <img align="right" alt-"coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan31457&label=Profile%20views&color=0e75b6&style=flat" alt="aryan31457" /> </p>
 
 - 📫 How to reach me **aryan31457@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CfiZ7nZwmHzbaXqMhXf5OSTssuWo-jlD/view?usp=sharing](https://drive.google.com/file/d/1CfiZ7nZwmHzbaXqMhXf5OSTssuWo-jlD/view?usp=sharing)
+-  C++, Python, DSA, ML
+-  Front-end: HTML, CSS, JS, Bootstrap,ReactJs
+-  Backend: Django, Flask
+-  Practicing DSA and CP , solved over 800+ problems.
+-  Competitive coder (CodeChef 3⭐) (HR 1636)
+-  Passionate about AI, software reengineering & making real world problem solving projects.
+- 📄 Know about my experiences [📄RESUME](https://drive.google.com/file/d/1CfiZ7nZwmHzbaXqMhXf5OSTssuWo-jlD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
