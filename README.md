@@ -12,7 +12,7 @@
 -  Practicing DSA and CP , solved over 800+ problems.
 -  Competitive coder (CodeChef 3⭐) (HR 1636)
 -  Passionate about AI, software reengineering & making real world problem solving projects.
-- 📄 Know about my experiences [📄RESUME](https://drive.google.com/file/d/1CfiZ7nZwmHzbaXqMhXf5OSTssuWo-jlD/view?usp=sharing)
+- 📄 Know about my experiences [📄RESUME](https://drive.google.com/file/d/19Zm894jnwYUR22YCFYwAMfdpx1fMZaLR/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
