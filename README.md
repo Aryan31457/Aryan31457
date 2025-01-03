@@ -13,6 +13,7 @@
 -  Competitive coder (CodeChef 3⭐) (HR 1636)
 -  Passionate about AI, software reengineering & making real world problem solving projects.
 - 📄 Know about my experiences [📄RESUME](https://drive.google.com/file/d/19Zm894jnwYUR22YCFYwAMfdpx1fMZaLR/view?usp=drive_link)
+- [Codolio Profile](https://codolio.com/profile/Aryan31457)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
