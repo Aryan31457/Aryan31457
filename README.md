@@ -8,7 +8,7 @@
 - 📫 How to reach me **aryan31457@gmail.com**
 -  C++, Python, DSA, ML
 -  Front-end: HTML, CSS, JS, Bootstrap,ReactJs
--  Backend: Django, Flask
+-  Backend: Django, Flask,FastAPI,NodeJs
 -  Practicing DSA and CP , solved over 800+ problems.
 -  Competitive coder (CodeChef 3⭐) (HR 1636)
 -  Passionate about AI, software reengineering & making real world problem solving projects.
