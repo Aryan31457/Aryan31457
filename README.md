@@ -11,8 +11,8 @@
 - C++, Python, DSA, ML
 - Front-end: HTML, CSS, JS, Bootstrap, ReactJs
 - Backend: Django, Flask, FastAPI, NodeJs
-- Practicing DSA and CP, solved over 800+ problems.
-- Competitive coder (CodeChef 3⭐) (HR 1636)
+- Practicing DSA and CP, solved over 1200+ problems.
+- Competitive coder (CodeForces PUPIL ) (HR 1235),(CodeChef 3⭐) (HR 1753)
 - Passionate about AI, software reengineering & making real-world problem-solving projects.
 - 📄 Know about my experiences [📄RESUME](https://drive.google.com/file/d/1gBTjU52TtZCll2uUiD0OpDEtLAqI-2Is/view?usp=sharing)
 - [Codolio Profile](https://codolio.com/profile/Aryan31457)
