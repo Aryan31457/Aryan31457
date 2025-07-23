@@ -14,7 +14,7 @@
 - Practicing DSA and CP, solved over 1200+ problems.
 - Competitive coder (CodeForces PUPIL ) (HR 1235),(CodeChef 3⭐) (HR 1753)
 - Passionate about AI, software reengineering & making real-world problem-solving projects.
-- 📄 Know about my experiences [📄RESUME](https://drive.google.com/file/d/1gBTjU52TtZCll2uUiD0OpDEtLAqI-2Is/view?usp=sharing)
+- 📄 Know about my experiences [📄RESUME]([https://drive.google.com/file/d/1gBTjU52TtZCll2uUiD0OpDEtLAqI-2Is/view?usp=sharing](https://drive.google.com/file/d/1eGBaOb21Zo5EvsEJj6DcS2WrXjV52esi/view?usp=sharing))
 - [Codolio Profile](https://codolio.com/profile/Aryan31457)
 
 <h3 align="left">Connect with me:</h3>
