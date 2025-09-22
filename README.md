@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Singh</h1>
-<h2 align="center"> 👋 I'm a pre-final year CSE student at IIITU</h2>
-<h3 align="center">A passionate machine learning enthusiast, Web developer & DSA learner</h3>
+<h2 align="center"> 👋 I'm a Final year CSE student at IIITU</h2>
+<h3 align="center">A passionate machine learning enthusiast, Web developer & DSA Solver</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -14,7 +14,7 @@
 - 🌐 Frontend: HTML, CSS, JS, Bootstrap, React.js  
 - 🛠️ Backend: Django, Flask, FastAPI, Node.js  
 - 🧹 Web Scraping: Scrapy, BeautifulSoup  
-- 🧠 Practicing DSA & CP with 1200+ problems solved  
+- 🧠 Practicing DSA & CP with 1500+ problems solved  
 - ⚔️ Competitive Coder: Codeforces PUPIL (HR 1235), CodeChef 3⭐ (HR 1753)  
 - 🔍 Passionate about AI, software reengineering & real-world problem-solving projects  
 - 📄 [My Resume](https://drive.google.com/file/d/1gBTjU52TtZCll2uUiD0OpDEtLAqI-2Is/view?usp=sharing)  
